@@ -1,0 +1,22 @@
+.inputs {
+    margin-bottom: 5px;
+}
+
+
+.inputs_param {
+    background: linear-gradient(to bottom right, #0033cc 24%, #ff99cc 146%);
+}
+
+
+.inputs_param p {
+    color: white;
+}
+
+td,
+th {
+    padding: 0 !important;
+}
+
+.form-control {
+    padding: 0 !important;
+}
